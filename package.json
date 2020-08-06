@@ -2,7 +2,7 @@
   "name": "hello-world",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://udit0903.github.io/homework"
+  "homepage":"https://udit0903.github.io/screen1",
   "dependencies": {
     "@material-ui/core": "^5.0.0-alpha.5",
     "@material-ui/icons": "^4.9.1",
